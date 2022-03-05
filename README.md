@@ -46,6 +46,7 @@ The pretrained models will be released soon.
 
 ## Reference
 
+'''bash
 If you found this code useful, please cite the following paper:
 @article{10.1145/3499027,
 author = {Cheng, Yuhao and Zhu, Xiaoguang and Qian, Jiuchao and Wen, Fei and Liu, Peilin},
@@ -65,7 +66,7 @@ articleno = {95},
 numpages = {23},
 keywords = {Image-text retrieval, relation reasoning, cross-modal matching, graph matching}
 }
-
+'''
 
 ## License
 
