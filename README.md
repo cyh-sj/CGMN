@@ -49,13 +49,11 @@ The pretrained models will be released soon.
 If you found this code useful, please cite the following paper:
 
 '''
-@article{10.1145/3499027,
+@article{cheng2022CGMN,
 author = {Cheng, Yuhao and Zhu, Xiaoguang and Qian, Jiuchao and Wen, Fei and Liu, Peilin},
 title = {Cross-Modal Graph Matching Network for Image-Text Retrieval},
 year = {2022},
 issue_date = {November 2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
 volume = {18},
 number = {4},
 issn = {1551-6857},
