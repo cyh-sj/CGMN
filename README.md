@@ -48,7 +48,7 @@ The pretrained models will be released soon.
 
 If you found this code useful, please cite the following paper:
 
-'''
+```
 @article{cheng2022CGMN,
 author = {Cheng, Yuhao and Zhu, Xiaoguang and Qian, Jiuchao and Wen, Fei and Liu, Peilin},
 title = {Cross-Modal Graph Matching Network for Image-Text Retrieval},
@@ -65,7 +65,7 @@ articleno = {95},
 numpages = {23},
 keywords = {Image-text retrieval, relation reasoning, cross-modal matching, graph matching}
 }
-'''
+```
 
 ## License
 
