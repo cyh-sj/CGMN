@@ -1,7 +1,7 @@
 # Cross-Modal Graph Matching Network for Image-Text Retrieval (CGMN)
 PyTorch code for CGMN described in the paper "Cross-Modal Graph Matching Network for Image-text Retrieval". The paper is accepted by Transactions on Multimedia Computing Communications and Applications. It is built on top of the [VSE++](https://github.com/fartashf/vsepp).
 
-Partial data can be obtained [here](https://drive.google.com/file/d/1ZVLIN7uSh3dqYAEldelyYF2ei9vicJvZ/view?usp=sharing), and the pretrained models can be obtained in [Flickr30K](https://drive.google.com/file/d/12FO57QvTetKB8ex7kxhS3yhHaUB1k9Mp/view?usp=sharing) and [MS-COCO](https://drive.google.com/file/d/1N10l7mkeQ7R-KOAARe9ZXaQZRS8iWHwH/view?usp=sharing)
+Partial data can be obtained [here](https://drive.google.com/file/d/1ZVLIN7uSh3dqYAEldelyYF2ei9vicJvZ/view?usp=sharing), and the pretrained models can be obtained in [Flickr30K](https://drive.google.com/file/d/12FO57QvTetKB8ex7kxhS3yhHaUB1k9Mp/view?usp=sharing) and [MS-COCO](https://drive.google.com/file/d/1N10l7mkeQ7R-KOAARe9ZXaQZRS8iWHwH/view?usp=sharing).
 
 ## Requirements 
 We recommended the following dependencies.
