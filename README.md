@@ -3,6 +3,8 @@ PyTorch code for CGMN described in the paper "Cross-Modal Graph Matching Network
 
 Partial data can be obtained [here](https://drive.google.com/file/d/1ZVLIN7uSh3dqYAEldelyYF2ei9vicJvZ/view?usp=sharing), and the pretrained models can be obtained in [Flickr30K](https://drive.google.com/file/d/12FO57QvTetKB8ex7kxhS3yhHaUB1k9Mp/view?usp=sharing) and [MS-COCO](https://drive.google.com/file/d/1N10l7mkeQ7R-KOAARe9ZXaQZRS8iWHwH/view?usp=sharing).
 
+The IOU.npy can be obtained by using getiou.py with _bbx.npy .
+
 ## Requirements 
 We recommended the following dependencies.
 
